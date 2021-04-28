@@ -4,10 +4,6 @@ The aim of this exercise is to implement an "alerting" service which
 will consume a file of currency conversion rates and
 produce alerts for a number of situations.
 
-The build system is configured to handle Java or Kotlin, which is our preferred language.
-For the purpose of this coding exercise, you are allowed to choose a different programming language,
-provided that you provide us with a detailed instruction on how to build and run your program.
-
 
 ### Input
 
